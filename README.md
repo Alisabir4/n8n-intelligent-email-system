@@ -29,7 +29,7 @@ This project is an AI-powered automation agent built using **n8n** and **LangCha
 
 ## 📂 File Included
 
-- `first AI agent.json` → n8n workflow export file
+- `AI agent.json` → n8n workflow export file
 
 ## ⚙️ Use Case
 
